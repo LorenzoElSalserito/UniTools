@@ -3,6 +3,7 @@ XPath Reference
 
 Resources:
  - http://learn.onion.net/language=en/35426/w3c-xpath
+ - https://www.w3schools.com/xml/
 
 Xpath command local test: example here.
 
